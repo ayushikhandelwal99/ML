@@ -1,2 +1,2 @@
 # SML
-contains basics to advance for ML
+contains basics to advance for SML
